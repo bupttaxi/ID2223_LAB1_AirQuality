@@ -4,7 +4,7 @@ on:
   # workflow_dispatch:
   schedule:
    #- cron: '11 6 * * *'
-   - cron: '*/8 * * * *'
+   - cron: '0 */12 * * *'
 
 jobs:
   schedule_pipelines:
@@ -55,6 +55,7 @@ jobs:
           #skip_checkout: true
 
           #push_options: '--force'
+
 
 
 
