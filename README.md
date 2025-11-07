@@ -59,7 +59,7 @@ To improve performance, we added **three new lagged PM2.5 features**:
 |------------|----------|--------------|
 | **air_quality** | v2 | Extended air quality data with lag features (`pm25_lag1`, `pm25_lag2`, `pm25_lag3`) |
 | **weather** | v1 | Same as before |
-| **air_quality_fv_v2** | v3 | Joined `air_quality v2` + `weather v1` (including lag features) |
+| **air_quality_fv** | v2 | Joined `air_quality v2` + `weather v1` (including lag features) |
 
 ### ✅ New Model Trained & Registered
 | Model Name | Version | Description |
@@ -124,6 +124,7 @@ While R² remains slightly negative due to data variability, the large reduction
 ---
 
 ✍️ *Author: Xin Tang (KTH ID2223 — Air Quality Project, 2025)*
+
 
 
 
