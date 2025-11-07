@@ -32,7 +32,7 @@ For the **Grade E** tasks, we followed the provided notebook template and implem
 ### ✅ Feature View Created
 | Feature View | Version | Description |
 |----------------|----------|--------------|
-| **air_quality_fv_v2** | v2 | Joined `air_quality v1` and `weather v1` features for model training |
+| **air_quality_fv** | v1 | Joined `air_quality v1` and `weather v1` features for model training |
 
 ### ✅ Model Trained & Registered
 | Model Name | Version | Description |
@@ -124,3 +124,4 @@ While R² remains slightly negative due to data variability, the large reduction
 ---
 
 ✍️ *Author: Xin Tang (KTH ID2223 — Air Quality Project, 2025)*
+
