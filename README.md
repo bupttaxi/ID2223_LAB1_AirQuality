@@ -62,9 +62,9 @@ To improve performance, we added **three new lagged PM2.5 features**:
 | **air_quality_fv** | v2 | Joined `air_quality v2` + `weather v1` (including lag features) |
 
 ### ✅ New Model Trained & Registered
-| Model Name | Version | Description |
-|-------------|-----------|--------------|
-| **air_quality_xgboost_model_C** | v2 | XGBoost trained on lagged PM2.5 features (Grade C model) |
+| Model Name |  Description |
+|-------------|--------------|
+| **air_quality_xgboost_model_C** |  XGBoost trained on lagged PM2.5 features (Grade C model) |
 
 ### 📈 Model Performance (after adding lag features)
 | Metric | Before (E) | After (C) | Change |
@@ -124,6 +124,7 @@ While R² remains slightly negative due to data variability, the large reduction
 ---
 
 ✍️ *Author: Xin Tang (KTH ID2223 — Air Quality Project, 2025)*
+
 
 
 
