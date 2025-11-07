@@ -37,7 +37,7 @@ For the **Grade E** tasks, we followed the provided notebook template and implem
 ### ✅ Model Trained & Registered
 | Model Name  | Description |
 |-------------|--------------|
-| **air_quality_xgboost_model**  | XGBoost trained on `air_quality_fv_v2` (base features only) |
+| **air_quality_xgboost_model**  | XGBoost trained on `air_quality_fv` (base features only) |
 
 ### 📊 Model Performance
 | Metric | Value |
@@ -124,6 +124,7 @@ While R² remains slightly negative due to data variability, the large reduction
 ---
 
 ✍️ *Author: Xin Tang (KTH ID2223 — Air Quality Project, 2025)*
+
 
 
 
