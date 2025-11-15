@@ -101,8 +101,8 @@ Two types of plots were generated and uploaded to the Hopsworks Model Registry:
 | Backfill feature pipeline | ✅ Done |
 | Daily feature pipeline | ✅ Done |
 | Training pipeline | ✅ Done |
-| Batch inference dashboard | ✅ OnGoing |
-| UI | ✅ OnGoing |
+| Batch inference dashboard | ✅ Done |
+| UI | ✅ Done |
 | Lag feature extension (C grade) | ✅ OnGoing |
 | README & explanation | ✅ OnGoing |
 
@@ -110,6 +110,7 @@ Two types of plots were generated and uploaded to the Hopsworks Model Registry:
 ---
 
 ✍️ *Author: Xin Tang & Bite Chu (KTH ID2223 — Lab 1 Air Quality Project, 2025)*
+
 
 
 
